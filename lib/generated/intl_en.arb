@@ -1,0 +1,18 @@
+{
+  "@@locale": "en",
+  "appTitle": "Settings",
+  "history": "History",
+  "historySubtitle": "Recorded events of the last 7 days",
+  "lullabies": "Lullabies",
+  "lullabiesSubtitle": "Manage recorded lullabies",
+  "pairedDevices": "Paired devices",
+  "deviceName": "Device name",
+  "deviceNameSubtitle": "Android",
+  "defaultDeviceRole": "Default device role",
+  "defaultDeviceRoleSubtitle": "None",
+  "language": "Language",
+  "languageSubtitle": "English",
+  "none": "None",
+  "parent": "Parent",
+  "baby": "Baby"
+}

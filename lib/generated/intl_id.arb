@@ -1,0 +1,18 @@
+{
+  "@@locale": "id",
+  "appTitle": "Pengaturan",
+  "history": "Riwayat",
+  "historySubtitle": "Peristiwa yang tercatat dalam 7 hari terakhir",
+  "lullabies": "Lagu Pengantar Tidur",
+  "lullabiesSubtitle": "Kelola lagu pengantar tidur yang direkam",
+  "pairedDevices": "Perangkat yang dipasangkan",
+  "deviceName": "Nama perangkat",
+  "deviceNameSubtitle": "Android",
+  "defaultDeviceRole": "Peran perangkat default",
+  "defaultDeviceRoleSubtitle": "Tidak ada",
+  "language": "Bahasa",
+  "languageSubtitle": "Indonesia",
+  "none": "Tidak ada",
+  "parent": "Orang tua",
+  "baby": "Bayi"
+}
